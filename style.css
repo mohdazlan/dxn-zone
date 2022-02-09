@@ -1,0 +1,57 @@
+body {
+  background: #eaeaea;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+a{
+    color:#000000;
+    text-decoration: none;
+}
+
+.gallery__img {
+  width: 100%;
+}
+
+.section--top {
+  height: 100vh;
+}
+
+.section--about{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+
+.border{
+    border-top: 1px solid #000000;
+}
+
+.img--logo {
+  width: 100vw;
+  position: absolute;
+}
+
+.img--dxn-zone {
+  top: 0;
+}
+
+.img--digital-engine {
+  bottom: 0;
+}
+
+.gallery__item {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.contact__inner{
+    display: flex;
+}
+.contact__column{
+    width: 50%;
+}
