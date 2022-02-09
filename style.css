@@ -25,6 +25,8 @@ a{
     padding-top: 40px;
 }
 
+.about__text{padding-bottom: 40px;}
+
 .border{
     border-top: 1px solid #000000;
 }
